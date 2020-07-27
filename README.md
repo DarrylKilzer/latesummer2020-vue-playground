@@ -1,0 +1,2 @@
+# vue-playground
+To get started dont forget to run npm i. After you have your node modules, go ahead and start the project with npm run serve. After that, just follow the instructions throughout the app.
